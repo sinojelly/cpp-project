@@ -1,0 +1,5 @@
+syntax: regexp
+\.rar$
+^tools/
+^tools_src/
+^build/
